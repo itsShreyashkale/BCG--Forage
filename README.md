@@ -114,6 +114,7 @@ See [`docs/Data_Description (1).pdf`](docs/Data_Description (1).pdf) for full fi
 **price_data.csv** — 7 fields covering off-peak, peak, and mid-peak variable and fixed energy prices by month.
 
 ---
+<img width="1598" height="895" alt="image" src="https://github.com/user-attachments/assets/920de78c-00c5-436f-b7fb-38cd78a6b8be" />
 
 ## 🏢 Context
 
