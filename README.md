@@ -108,7 +108,7 @@ Synthesised all findings into a single BCG-style executive summary slide using t
 
 ## 📊 Data Dictionary
 
-See [`docs/Data_Description.pdf`](docs/Data_Description.pdf) for full field definitions.
+See [`docs/Data_Description (1).pdf`](docs/Data_Description (1).pdf) for full field definitions.
 
 **client_data.csv** — 26 features including consumption, margins, contract dates, channel, and churn label.  
 **price_data.csv** — 7 fields covering off-peak, peak, and mid-peak variable and fixed energy prices by month.
